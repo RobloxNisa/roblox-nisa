@@ -12,6 +12,9 @@ Evet. Mozilla Public License Version 2.0 lisansa sahiptir. Bizden izinsiz hiçbi
 
 # Telif Hakkı/Copyright
 Copyright ©2024 Roblox Nisa LLC. All rights reserved.
+
 Copyright ©2024 NisaOS Corporation. All rights reserved.
+
 Copyright ©2024 Microsoft Corporation. All rights reserved.
+
 Copyright ©2024 NeseOS Corporation. All rights reserved.
